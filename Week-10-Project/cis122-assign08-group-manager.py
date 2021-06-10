@@ -4,7 +4,7 @@ Name: Ohm Sabpisal
 Credit: N/A
 Class: CIS 122
 Date: December 6, 2019
-Description: This project is the ultimate test of human capability in 5 hours.
+Description: --------------------------------
 """
 
 run = True
